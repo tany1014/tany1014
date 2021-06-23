@@ -1,5 +1,7 @@
 Hi there, I'm Tanmay - aka tany1014 👋
 
+![Website](https://www.linkedin.com/in/tanmay-trivedi-665b771aa/)](Tanmay trivedi / Linkedin)
+
 ## I'm a web designer, Frontend developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for projects as a frontend developer
