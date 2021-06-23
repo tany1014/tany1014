@@ -32,5 +32,5 @@ Hi there, I'm Tanmay - aka tany1014 👋
 ### Stats
 ![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tany1014&theme=dark&show_icons=true)
 
-![Tanmay's GitHub repo](https://github-readme-stats.vercel.app/api?username=tany1014&repo=github-readme-stats&cache_seconds=86400&theme=prussian)
+
 
