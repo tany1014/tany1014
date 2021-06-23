@@ -29,4 +29,4 @@ Hi there, I'm Tanmay - aka tany1014 👋
 
 ### Stats
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian
+[prussian]: https://github-readme-stats.vercel.app/api?username=tany1014_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian
