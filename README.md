@@ -1,4 +1,4 @@
-Hi there, I'm Tanmay - aka tany1014 👋
+<h1 align="center">Hi <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">🧑‍💻, I'm Tanmay Trivedi</h1>
 
 ## I'm a web designer, Frontend developer
 - 🌱 I’m currently learning everything 🤣
