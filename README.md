@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">🧑‍💻, I'm Tanmay Trivedi</h1>
+<h3 align="center"> I'm a web designer, Frontend developer</h3>
 
-## I'm a web designer, Frontend developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for projects as a frontend developer
 - 🥅 Goals: Contribute more to Open Source projects
