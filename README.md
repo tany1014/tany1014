@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for projects as a frontend developer
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, football, and many more
+- ⚡ Fun fact: I love to draw, play football, and many more
 
 ### Connect with me:
 
