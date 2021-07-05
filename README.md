@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">🧑‍💻, I'm Tanmay Trivedi</h1>
-<h3 align="center"> I'm a web designer, Frontend developer</h3>
+<h3 align="center"> I'm a Web, UI/UX designer | Frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tany1014&label=Profile%20views&color=0e75b6&style=flat" alt="tany1014" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/827787/screenshots/5931262/ux-design.gif">
 
